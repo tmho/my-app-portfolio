@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_padding">12dp</dimen>
+    <dimen name="default_button_margin">48dp</dimen>
+    <dimen name="default_button_top_margin">6dp</dimen>
+
+    <!-- main_activity.xml -->
+    <dimen name="launcher_button_margin">@dimen/default_button_margin</dimen>
+    <dimen name="launcher_button_top_margin">@dimen/default_button_top_margin</dimen>
+</resources>
